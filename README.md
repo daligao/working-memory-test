@@ -6,6 +6,8 @@ A brutal dual-task cognitive challenge benchmarked against WAIS-IV norms. Free, 
 
 🧠 **[Play it live →](https://ordinarymantrying.com/tools/digit-memory-test/)**
 
+![Working Memory Test Screenshot](screenshot.jpg)
+
 ---
 
 ## How it works
